@@ -1,0 +1,25 @@
+{:site-title         "Phil Rees"
+ :author             "Phil Rees"
+ :description        "A place for my tinkering and exploration."
+ :site-url           "http://prees1.github.io"
+ :post-root          "posts"
+ :page-root          "pages"
+ :post-root-uri      "posts-output"
+ :page-root-uri      "pages-output"
+ :tag-root-uri       "tags-output"
+ :blog-prefix        ""
+ :rss-name           "feed.xml"
+ :rss-filters        ["cryogen"]
+ :recent-posts       3
+ :post-date-format   "yyyy-MM-dd"
+ :sass-src           nil
+ :sass-dest          nil
+ :theme              "blue"
+ :resources          ["img"]
+ :keep-files         [".git"]
+ :disqus?            false
+ :disqus-shortname   ""
+ :ignored-files      [#"\.#.*" #".*\.swp$"]
+ :posts-per-page     5
+ :blocks-per-preview 2
+ :previews?          false}
